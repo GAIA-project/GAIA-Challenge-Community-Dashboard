@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: Mon Sep 18 2017 15:32:34 GMT+0200 (Mitteleuropäische "
+"Sommerzeit)\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.3\n"
+
+#: cms\public\app\src\components\Achievement.jsx:29
+msgid "You got {{x}} points for this badge."
+msgstr "Έλαβες {{x}} πόντους για αυτό το έμβλημα."
+
+#: cms\public\app\src\components\Achievement.jsx:30
+msgid "You can get {{x}} points for this badge."
+msgstr "Μπορείς να πάρεις {{x}} πόντους για αυτό το έμβλημα."
+
+#: cms\public\app\src\components\Achievement.jsx:36
+msgid "You unlocked this achievement on {{date}}."
+msgstr "Ξεκλείδωσες αυτό το κατόρθωμα στις {{date}}."
+
+#: cms\public\app\src\components\GroupAchievements.jsx:104
+msgid "Achievements"
+msgstr "Κατορθώματα"
+
+#: cms\public\app\src\components\GroupPlayersRanking.jsx:61
+msgid "Highscore"
+msgstr "Ψηλότερες βαθμολογίες"
+
+#: cms\public\app\src\components\GroupSensorData.jsx:97
+msgid "Sensor Data"
+msgstr "δεδομένα αισθητήρα"
+
+#: cms\public\app\src\components\GroupsRanking.jsx:35
+msgid "Mission team ranking"
+msgstr "Κατάταξη ομάδας αποστολών"
+
+#: cms\public\app\src\components\GroupsRanking.jsx:36
+msgid "select an entry"
+msgstr "επιλέξτε μια καταχώρηση"
+
+#: cms\public\app\src\components\GroupSubmissions.jsx:205
+msgid "Submissions"
+msgstr "Υποβολές"
+
+#: cms\public\app\src\components\GroupSubmissions.jsx:211
+msgid "All"
+msgstr "Ολα"
+
+#: cms\public\app\src\components\GroupSubmissions.jsx:212
+msgid "Snapshots"
+msgstr "Στιγμιότυπα"
+
+#: cms\public\app\src\components\GroupSubmissions.jsx:213
+msgid "Portfolios"
+msgstr "Συλλογές"
+
+#: cms\public\app\src\components\GroupSubmissions.jsx:220
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: cms\public\app\src\components\GroupSubmissions.jsx:245
+msgid "No results. Try a different filter or change Mission Team."
+msgstr "Χωρίς αποτέλεσμα."
+
+#: cms\public\app\src\components\GroupSubmissions.jsx:250
+msgid "load more..."
+msgstr "φόρτωσε περισσότερα..."
+
+#: cms\public\app\src\components\SubmissionTeaser.jsx:26
+msgid "by"
+msgstr "από"
+
+#: cms\public\app\src\components\SubmissionTeaser.jsx:28
+msgid "votes"
+msgstr "ψήφοι"
+
+#: cms\public\app\src\lib\axios.js:14
+msgid "An error has occurred."
+msgstr "Συνέβη ένα σφάλμα."
+
+#~ msgid "There are no items to show."
+#~ msgstr "Δεν υπάρχουν στοιχεία για προβολή."
+
+#~ msgid "more..."
+#~ msgstr "περισσότερα..."
